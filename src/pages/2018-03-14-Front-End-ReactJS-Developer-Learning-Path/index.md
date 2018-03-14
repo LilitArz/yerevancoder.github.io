@@ -10,9 +10,12 @@ description: General things you should know for being FrontEnd developer
 
 Note: This list is proposed by RenderForest, for newbie devs that apply for a job in our company.
 This is not a complete list, nor it is a single answer to all questions.
-But we thought that this might be helpful for community and for those who want to learn modern front-end development with ReactJs technology.
+But we thought that this might be helpful for community and for those who want to learn modern front-end
+development with ReactJs technology.
 
-* Basic understanding of HTML/CSS [(learn)](https://www.codecademy.com/en/tracks/web)
+* Basic understanding of HTML/CSS[(learn)](https://www.codecademy.com/en/tracks/web)
+* Basic knowledge of CSS flexbox [(learn)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  [(learn)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 * Have already read this [(A reintroduction to JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * Basic working knowledge of JavaScript
 * CS Related university grad or 3rd course or above.
